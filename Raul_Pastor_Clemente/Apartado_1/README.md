@@ -4,7 +4,7 @@
 El objetivo de este ejercicio es desarrollar una aplicación sencilla utilizando el lenguaje **Python** que aborde temáticas relacionadas con la **ciberseguridad**. Asimismo, se requiere la implementación de **4 pruebas unitarias** (unit tests) que verifiquen el correcto funcionamiento de la lógica implementada.
 
 ## Qué hace el script y explicación
-El script `validador.py` consiste en una herramienta de seguridad defensiva (Blue Team) diseñada para auditar la fortaleza de contraseñas. Su función principal es validar si una cadena de texto cumple con los estándares mínimos de complejidad para resistir ataques básicos de fuerza bruta o diccionario.
+El script `validador.py` consiste en una herramienta de seguridad diseñada para auditar la fortaleza de contraseñas. Su función principal es validar si una cadena de texto cumple con los estándares mínimos de complejidad para resistir ataques básicos de fuerza bruta o diccionario.
 
 La función `es_contrasena_segura` verifica que la entrada cumpla simultáneamente con las siguientes reglas mediante expresiones regulares:
 
@@ -17,7 +17,7 @@ La función `es_contrasena_segura` verifica que la entrada cumpla simultáneamen
 El script devuelve un valor booleano (`True`/`False`) dependiendo de si se satisfacen todas las condiciones.
 
 ## Cómo ejecutar
-El proyecto utiliza librerías estándar de Python, por lo que no requiere instalación de dependencias para la ejecución básica del script principal.
+El proyecto utiliza librerías estándar de Python, por lo que no requiere instalación de dependencias para la ejecución del script principal.
 
 Para ejecutar la comprobación manual:
 
