@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Obtener el usuario actual
+# Obtener el usuario actual con el comando whoami
 USUARIO=$(whoami)
 
-# Obtener el nombre del equipo (hostname)
+# Obtener el nombre del equipo con el comando hostname
 EQUIPO=$(hostname)
 
 # Obtener el Sistema Operativo
