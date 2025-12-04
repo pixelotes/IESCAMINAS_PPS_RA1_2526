@@ -1,7 +1,8 @@
 # Práctica Puntuable RA1 - Apartado 1
 
 ## Enunciado
-El objetivo de este ejercicio es desarrollar una aplicación sencilla utilizando el lenguaje **Python** que aborde temáticas relacionadas con la **ciberseguridad**. Asimismo, se requiere la implementación de **4 pruebas unitarias** (unit tests) que verifiquen el correcto funcionamiento de la lógica implementada.
+Crea una app sencilla utilizando el lenguaje **Python** con temas relacionados con la **ciberseguridad** como puede ser la **criptografía**, por ejemplo.  
+Realiza **4 test unitarios** para esta app.
 
 ## Qué hace el script y explicación
 El script `validador.py` consiste en una herramienta de seguridad diseñada para auditar la fortaleza de contraseñas. Su función principal es validar si una cadena de texto cumple con los estándares mínimos de complejidad para resistir ataques básicos de fuerza bruta o diccionario.

@@ -1,7 +1,11 @@
 # Práctica Puntuable RA1 - Apartado 3
 
 ## Enunciado
-Este apartado consiste en la realización del tutorial interactivo [Learn Git Branching](https://learngitbranching.js.org/), cubriendo tanto los niveles básicos (Main) como los remotos (Remote). El objetivo es consolidar los conocimientos sobre el flujo de trabajo en Git, gestión de ramas y operaciones con repositorios remotos.
+Obtén un **pantallazo** de tus resultados obtenidos después de haber realizado el tutorial de la URL  
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/) que se solicitaba en la práctica de Aules **ACT_RA1_4: Solidity + GIT**.
+
+Hay que obtener un pantallazo tanto para la pestaña **Main o Principal** como para la de **Remote o Remota**.  
+En el pantallazo tiene que quedar claro de alguna forma que **el pantallazo lo hemos obtenido nosotros** y no es una imagen aleatoria.
 
 ## Capturas de pantalla
 
