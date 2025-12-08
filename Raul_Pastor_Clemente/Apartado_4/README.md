@@ -37,7 +37,7 @@ graph TD
     %% Estilos
     classDef root fill:#f96,stroke:#333,stroke-width:4px;
     classDef branch fill:#69f,stroke:#333,stroke-width:2px,color:white;
-    classDef leaf fill:#9f6,stroke:#333,stroke-width:2px;
+    classDef leaf fill:#006400,stroke:#333,stroke-width:2px,color:white;
 
     %% Nivel 2: La Raíz
     Root["ROOT (Nivel 2)<br/>0x3695...1d8b"]:::root
@@ -62,3 +62,13 @@ graph TD
     HashPar2 -- "Izq (Menor)" --> HashSol
     HashPar2 -- "Der (Mayor)" --> HashLuna
 ```
+* **Hash Raíz:** 0x36955be82c71a9eb6b683694ebbdcaca5a291f4f1f17caf62b958d7c25991d8b
+* **Hash Padre 1:** 0x526f73d5af96b1418eae80daff570b80500d7e9a45ada8c62ad39313b7500de7
+* **Hash Padre 2:** 0x94be044a318f6e73a3706010582a05069f2d7743645b729c22166c81bffe614a
+* **Hash Hoja 1 (Hola):** 0x98d72beb4bd8117253d41e6075451e4c62e8f4cb6538536ef1fc13333c7a4085
+* **Hash Hoja 2 (Adios):** 0xf6b0ec4e4cb7dfa07aadda7cd2416c7d2f2ff50d8de2a83a44e89fcd74c6eee6
+* **Hash Hoja 3 (Sol):** 0x72d49186752e2f27cd5b5a3914634770cd7b65f41c61797eeaa5fd582e9c49a9
+* **Hash Hoja 4 (Luna):** 0xb5cf3f153eccb7e7cf70f80270b326abf80a7208aba2bff85a05da4ecda024b7
+
+### Verificación en Remix IDE
+![Verificacion en Remix'](./Verificacion.png)
