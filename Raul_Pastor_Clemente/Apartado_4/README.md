@@ -77,3 +77,6 @@ Remix es un IDE online que permite depurar y desplegar contratos Solidity en una
 Adjunto una captura del proceso de verificación, una vez el contrato ha sido compilado y desplegado, en la que se ve que la comprobación realizada da como resultado `true`.
 
 ![Verificacion en Remix'](./Verificacion.png)
+
+## Conclusión
+La integración de estructuras de datos criptográficas como los árboles de Merkle en contratos inteligentes es una técnica clave para la escalabilidad en blockchain. Este ejercicio demuestra cómo verificar la pertenencia de un dato a un conjunto masivo almacenando únicamente la raíz (Merkle Root), lo cual optimiza drásticamente el consumo de gas y garantiza la integridad de la información sin necesidad de mantener listas completas en la cadena.
