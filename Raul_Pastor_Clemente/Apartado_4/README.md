@@ -52,12 +52,13 @@ graph TD
     HashSol["'Sol'<br/>0x72d4..."]:::leaf
     HashLuna["'Luna'<br/>0xb5cf..."]:::leaf
 
-    %% Conexiones
+    %% Conexiones (CORREGIDAS CON COMILLAS)
     Root --> HashPar1
     Root --> HashPar2
 
-    HashPar1 -->|Izq (Menor)| HashHola
-    HashPar1 -->|Der (Mayor)| HashAdios
+    HashPar1 -- "Izq (Menor)" --> HashHola
+    HashPar1 -- "Der (Mayor)" --> HashAdios
 
-    HashPar2 -->|Izq (Menor)| HashSol
-    HashPar2 -->|Der (Mayor)| HashLuna
+    HashPar2 -- "Izq (Menor)" --> HashSol
+    HashPar2 -- "Der (Mayor)" --> HashLuna
+```
